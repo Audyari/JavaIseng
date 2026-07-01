@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de841e20-920b-46eb-9f91-9958f324de20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="makan" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Audyari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Audyari/JavaIseng.git&quot;,
+    &quot;accountId&quot;: &quot;71fdc1da-5900-4e6d-bfcb-111705b2fbd1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7427824979408248" />
+      <entry key="MS500" value="4.401497120507124" />
+      <entry key="S2" value="8.3404609355198" />
+      <entry key="S5" value="10.618643975077067" />
+      <entry key="S10" value="12.702581642103578" />
+      <entry key="S30" value="17.151873820509795" />
+      <entry key="S60" value="20.69417632295828" />
+      <entry key="M2" value="23.894579331297933" />
+      <entry key="M5" value="26.65583104844221" />
+      <entry key="M10" value="27.769715316708574" />
+      <entry key="M15" value="28.16621668943408" />
+      <entry key="M30" value="28.576138232287057" />
+      <entry key="H1" value="28.786293269592328" />
+      <entry key="H2" value="28.89269843542764" />
+      <entry key="H4" value="28.946236633527505" />
+      <entry key="D1" value="28.9910237566586" />
+      <entry key="W1" value="28.99871729487155" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.537337214521287" />
+      <entry key="MS500" value="4.259843631578709" />
+      <entry key="S2" value="8.256557033510692" />
+      <entry key="S5" value="10.57260328713302" />
+      <entry key="S10" value="12.672144789825053" />
+      <entry key="S30" value="17.126352719954166" />
+      <entry key="S60" value="20.66980898828221" />
+      <entry key="M2" value="23.876406222363887" />
+      <entry key="M5" value="26.64640879481982" />
+      <entry key="M10" value="27.764564429163507" />
+      <entry key="M15" value="28.16267808206414" />
+      <entry key="M30" value="28.57431474345037" />
+      <entry key="H1" value="28.78536762285204" />
+      <entry key="H2" value="28.89223209105049" />
+      <entry key="H4" value="28.946002575350256" />
+      <entry key="D1" value="28.990984623418733" />
+      <entry key="W1" value="28.998711701376752" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FqAwrhCbgHJ7fhiYVN192HiunT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "AudyariW",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/JAVA/DASAR JAVA/Java/Belajar/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Belajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de841e20-920b-46eb-9f91-9958f324de20" name="Changes" comment="" />
+      <created>1782792472402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782792472402</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Intalasi Awal">
+      <option name="closed" value="true" />
+      <created>1782792646768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782792646768</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Intalasi Awal">
+      <option name="closed" value="true" />
+      <created>1782793282081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793282081</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intalasi Awal 2">
+      <option name="closed" value="true" />
+      <created>1782793339181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793339181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Intalasi Awal 2">
+      <option name="closed" value="true" />
+      <created>1782793356086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793356086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Intalasi Awal 3">
+      <option name="closed" value="true" />
+      <created>1782793385050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793385050</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Intalasi Awal 4">
+      <option name="closed" value="true" />
+      <created>1782793514833</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793514833</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Intalasi Awal 5">
+      <option name="closed" value="true" />
+      <created>1782793936719</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782793936719</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Intalasi Awal 4">
+      <option name="closed" value="true" />
+      <created>1782794117470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782794117470</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Intalasi Awal 4">
+      <option name="closed" value="true" />
+      <created>1782794258239</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782794258239</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Intalasi Awal 4">
+      <option name="closed" value="true" />
+      <created>1782794513512</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782794513512</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Intalasi Awal 5">
+      <option name="closed" value="true" />
+      <created>1782794576919</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782794576919</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dari makan">
+      <option name="closed" value="true" />
+      <created>1782802557660</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782802557660</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intalasi Awal" />
+    <MESSAGE value="Intalasi Awal 2" />
+    <MESSAGE value="Intalasi Awal 3" />
+    <MESSAGE value="Intalasi Awal 4" />
+    <MESSAGE value="Intalasi Awal 5" />
+    <MESSAGE value="Revert &quot;Intalasi Awal 4&quot;&#10;&#10;This reverts commit cf8eff4b" />
+    <MESSAGE value="fixup! Intalasi Awal 4" />
+    <MESSAGE value="dari makan" />
+    <option name="LAST_COMMIT_MESSAGE" value="dari makan" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

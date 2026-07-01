@@ -1,0 +1,20 @@
+Index: src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n         System.out.println(\"Apaan SIh\");\r\n         System.out.println(\"Apaan SIh\");\r\n         System.out.println(\"Test AUdy\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java
+--- a/src/main/java/org/example/Main.java	(revision cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c)
++++ b/src/main/java/org/example/Main.java	(date 1782801411051)
+@@ -2,8 +2,6 @@
+ 
+ public class Main {
+     public static void main(String[] args) {
+-         System.out.println("Apaan SIh");
+-         System.out.println("Apaan SIh");
+-         System.out.println("Test AUdy");
++
+     }
+ }
