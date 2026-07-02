@@ -1,0 +1,85 @@
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 513ab72
+[33m01c94a6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: reset: moving to 01c94a6
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{2}: reset: moving to 513ab72
+[33m01c94a6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: pull origin master: Fast-forward
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{4}: reset: moving to HEAD~1
+[33m01c94a6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: commit: Iseng Bikin TodoList Pake "ArrayList"
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{6}: reset: moving to 513ab72
+[33m7c3a5d2[m HEAD@{7}: checkout: moving from master to master
+[33m7c3a5d2[m HEAD@{8}: reset: moving to 7c3a5d2
+[33mcf8eff4[m HEAD@{9}: checkout: moving from AudyariW to master
+[33m7c3a5d2[m HEAD@{10}: commit: Initial commit - Clean slate
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{11}: reset: moving to 513ab72
+[33mcf8eff4[m HEAD@{12}: pull origin AudyariW: Fast-forward
+[33ma5b2f7d[m HEAD@{13}: checkout: moving from makan to AudyariW
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from master to makan
+[33mcf8eff4[m HEAD@{15}: checkout: moving from makan to master
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{16}: interactive in-memory rebase by IntelliJ IDEA Git plugin: updating HEAD
+[33mdca2b56[m HEAD@{17}: commit: dari makan
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{18}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33mcf8eff4[m HEAD@{19}: checkout: moving from master to makan
+[33mcf8eff4[m HEAD@{20}: checkout: moving from 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7 to master
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{21}: checkout: moving from master to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33mcf8eff4[m HEAD@{22}: checkout: moving from cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c to master
+[33mcf8eff4[m HEAD@{23}: checkout: moving from AudyariW to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33ma5b2f7d[m HEAD@{24}: reset: moving to a5b2f7d0fa4f9e1a65cf53c4bc38cbe54d7728d8
+[33mcf8eff4[m HEAD@{25}: checkout: moving from master to AudyariW
+[33mcf8eff4[m HEAD@{26}: checkout: moving from cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c to master
+[33mcf8eff4[m HEAD@{27}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33m3822abc[m HEAD@{28}: interactive in-memory rebase by IntelliJ IDEA Git plugin: updating HEAD
+[33ma5b2f7d[m HEAD@{29}: checkout: moving from cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c to a5b2f7d0fa4f9e1a65cf53c4bc38cbe54d7728d8
+[33mcf8eff4[m HEAD@{30}: checkout: moving from master to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33mcf8eff4[m HEAD@{31}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33mcf8eff4[m HEAD@{32}: rebase: checkout master
+[33mcf8eff4[m HEAD@{33}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33mcf8eff4[m HEAD@{34}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{35}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{36}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33mcf8eff4[m HEAD@{37}: checkout: moving from master to AudyariW
+[33mcf8eff4[m HEAD@{38}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{39}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33mcf8eff4[m HEAD@{40}: rebase: checkout master
+[33mcf8eff4[m HEAD@{41}: rebase: checkout master
+[33mcf8eff4[m HEAD@{42}: merge origin/AudyariW: Fast-forward
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{43}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33mcf8eff4[m HEAD@{44}: rebase (finish): returning to refs/heads/master
+[33mcf8eff4[m HEAD@{45}: rebase (start): checkout HEAD
+[33mcf8eff4[m HEAD@{46}: reset: moving to cf8eff4be21b809f9b0a1e6476e382cdf5c3ff6c
+[33ma3d201d[m HEAD@{47}: commit (merge): Merge remote-tracking branch 'origin/AudyariW' into AudyariW
+[33m94c5a8b[m HEAD@{48}: commit: Intalasi Awal 5
+[33ma5b2f7d[m HEAD@{49}: reset: moving to a5b2f7d0fa4f9e1a65cf53c4bc38cbe54d7728d8
+[33mcf8eff4[m HEAD@{50}: commit: Intalasi Awal 4
+[33ma5b2f7d[m HEAD@{51}: rebase (finish): returning to refs/heads/AudyariW
+[33ma5b2f7d[m HEAD@{52}: rebase (continue): Intalasi Awal 4
+[33m3822abc[m HEAD@{53}: rebase (start): checkout origin/AudyariW
+[33m1901864[m HEAD@{54}: commit (merge): Merge remote-tracking branch 'origin/AudyariW' into AudyariW
+[33m42a6bc9[m HEAD@{55}: commit: Intalasi Awal 4
+[33m6a58169[m HEAD@{56}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m0360e8b[m HEAD@{57}: commit (merge): Merge remote-tracking branch 'origin/AudyariW' into AudyariW
+[33m02c5a3a[m HEAD@{58}: commit: Intalasi Awal 4
+[33m6a58169[m HEAD@{59}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{60}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m6a58169[m HEAD@{61}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m3822abc[m HEAD@{62}: checkout: moving from master to AudyariW
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{63}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33ma67929c[m HEAD@{64}: commit (merge): Merge remote-tracking branch 'origin/master'
+[33m5343134[m HEAD@{65}: commit: Intalasi Awal 5
+[33m6a58169[m HEAD@{66}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{67}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m3822abc[m HEAD@{68}: reset: moving to 3822abcc886ed5101bc70e2a4bdad4b1ccb366cb
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{69}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m6a58169[m HEAD@{70}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{71}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m3822abc[m HEAD@{72}: reset: moving to 3822abcc886ed5101bc70e2a4bdad4b1ccb366cb
+[33m6a58169[m HEAD@{73}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33ma6ca3d5[m HEAD@{74}: commit: Intalasi Awal 4
+[33m6a58169[m HEAD@{75}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m6a58169[m HEAD@{76}: reset: moving to 6a58169199143c41946bdb7f163144b2efc82b50
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{77}: reset: moving to 513ab72d66b6616eb6d6e4c6cdb1a33f41852ce7
+[33m3822abc[m HEAD@{78}: commit: Intalasi Awal 3
+[33m6a58169[m HEAD@{79}: commit (amend): Intalasi Awal 2
+[33me52e918[m HEAD@{80}: commit (amend): Intalasi Awal 2
+[33m8a816bd[m HEAD@{81}: reword 64decce351819cc2eb16ac956cd841a51d98638c by IntelliJ IDEA Git plugin
+[33m64decce[m HEAD@{82}: commit: Intalasi Awal
+[33m513ab72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{83}: reword 8a5dbd75a06feddc5ae864d4517ab308240987fa by IntelliJ IDEA Git plugin
+[33m8a5dbd7[m HEAD@{84}: commit (initial): Intalasi Awal
